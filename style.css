@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+#title{
+    color: white;
+    background-color: #9955FF;
+    font-size: 72px;
+    text-shadow: 2px 2px #000000;
+    font-weight: bold;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+.image{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-top: 5px;
+}
